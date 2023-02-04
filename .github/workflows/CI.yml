@@ -1,7 +1,7 @@
 name: CI
 
 on:
-  pull-requests:
+  pull-request:
     branches: [develop]
 
 jobs:
